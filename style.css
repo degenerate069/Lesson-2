@@ -1,0 +1,11 @@
+#header{
+    background-color:lightpink; text-align: center;}
+
+ #Footer{
+    background-color: lightpink; text-align: center;}
+
+#nav{ text-align: center; width: 50px; text-decoration: none;}
+
+#container{text-align: center; margin-right: 50px; margin-left: 50px; width: 800px; background-color: lightpink;}
+
+#content{ padding: 10px;}
